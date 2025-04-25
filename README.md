@@ -1,5 +1,9 @@
 # Proyecto Semáforos y Multitarea en ESP32
 
+<p align="center">
+    <img width="200" src="https://joy-it.net/files/files/Produkte/SBC-NodeMCU-ESP32/SBC-NodeMCU-ESP32-01.png">
+</p>
+
 Este repositorio contiene varios proyectos de ejemplo utilizando el microcontrolador ESP32, donde se exploran conceptos de multitarea y sincronización utilizando FreeRTOS y semáforos.
 
 ## Descripción de los proyectos
