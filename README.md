@@ -32,7 +32,10 @@ En este proyecto se manejan dos semáforos, cada uno controlado por un conjunto 
 
 -   **Semáforo 1** y **Semáforo 2** se alternan el estado verde, asegurando que ambos semáforos nunca estén en verde al mismo tiempo.  
     El proyecto utiliza semáforos para garantizar que las tareas que controlan los LEDs de cada semáforo se ejecuten de manera ordenada y sin conflictos.
-    
+
+  <p align="center">
+  <img src="imgs/gif.gif" />
+</p>
 
 ## Tecnologías y Herramientas Utilizadas
 
