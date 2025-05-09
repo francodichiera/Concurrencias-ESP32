@@ -6,7 +6,7 @@
 
 Este repositorio contiene varios proyectos de ejemplo utilizando el microcontrolador ESP32, donde se exploran conceptos de multitarea y sincronización utilizando FreeRTOS y semáforos.
 
-## CLASE 4 Multiprocesamiento y uso de semáforos en ESP32
+## Clase 4 - Multiprocesamiento y uso de semáforos en ESP32
 
 ### 1. **Multitarea en el ESP32: Imprimir en Cada Core**
 
