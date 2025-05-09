@@ -68,7 +68,7 @@ void consumidor(void *pvParameters) {
     if (xQueueReceive(myQueue, &p, portMAX_DELAY) == pdTRUE) {
       // Imprimir los datos por Serial
       Serial.printf("Consumido -> ID: %d, Nombre: %s, Apellido: %s, Email: %s \n",
-                    p.id, p.name, p.last_name, p.email);
+                    p.id, p.name, p.last_name, p.email.c_str());
     } else {
       Serial.println("Error al recibir de la cola.");
     }
