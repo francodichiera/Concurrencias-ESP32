@@ -49,15 +49,16 @@ La simulación imprime por puerto serie los eventos importantes del proceso: sol
 -   `colaSolicitudes`: Cola de solicitudes de aterrizaje por parte de los aviones.
     
 
-## 🖥️ Salida Serial (Ejemplo)
 
-Simulación de aterrizaje iniciada
+### 🖥️ Salida Serial (Ejemplo)
+
+```Simulación de aterrizaje iniciada
 Avión 2 solicita permiso para aterrizar
 Torre autoriza al avión 2 para aterrizar
 Avión 2 aterriza en pista 1
 Avión 3 solicita permiso para aterrizar
 Torre autoriza al avión 3 para aterrizar
-Avión 2 libera pista 1
+Avión 2 libera pista 1```
 ...
 
 ## 🔧 Requisitos
