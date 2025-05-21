@@ -51,17 +51,14 @@ La simulación imprime por puerto serie los eventos importantes del proceso: sol
 
 ## 🖥️ Salida Serial (Ejemplo)
 
-python-repl
-
-CopiarEditar
-
-`Simulación de aterrizaje iniciada
+Simulación de aterrizaje iniciada
 Avión 2 solicita permiso para aterrizar
 Torre autoriza al avión 2 para aterrizar
 Avión 2 aterriza en pista 1
 Avión 3 solicita permiso para aterrizar
 Torre autoriza al avión 3 para aterrizar
-Avión 2 libera pista 1 ...` 
+Avión 2 libera pista 1
+...
 
 ## 🔧 Requisitos
 
