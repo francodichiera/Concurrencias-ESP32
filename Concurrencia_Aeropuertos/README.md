@@ -50,7 +50,7 @@ La simulación imprime por puerto serie los eventos importantes del proceso: sol
     
 
 
-### 🖥️ Salida Serial (Ejemplo)
+## 🖥️ Salida Serial (Ejemplo)
 
 ```Simulación de aterrizaje iniciada
 Avión 2 solicita permiso para aterrizar
