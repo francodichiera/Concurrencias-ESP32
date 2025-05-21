@@ -58,8 +58,9 @@ Torre autoriza al avión 2 para aterrizar
 Avión 2 aterriza en pista 1
 Avión 3 solicita permiso para aterrizar
 Torre autoriza al avión 3 para aterrizar
-Avión 2 libera pista 1```
+Avión 2 libera pista 1
 ...
+```
 
 ## 🔧 Requisitos
 
