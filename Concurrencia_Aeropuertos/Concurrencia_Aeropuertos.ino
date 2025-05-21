@@ -4,7 +4,6 @@
 #include <freertos/semphr.h>
 #include <freertos/queue.h>
 
-// === CONFIGURACIÓN ===
 #define NUM_AVIONES 5
 #define NUM_PISTAS 3
 
@@ -61,7 +60,6 @@ void torreControlTask(void *param) {
   }
 }
 
-// === SETUP ===
 void setup() {
   Serial.begin(115200);
   delay(2000);
