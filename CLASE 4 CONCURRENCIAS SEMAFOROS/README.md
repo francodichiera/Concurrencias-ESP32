@@ -26,5 +26,5 @@ En este proyecto se manejan dos semáforos, cada uno controlado por un conjunto 
     El proyecto utiliza semáforos para garantizar que las tareas que controlan los LEDs de cada semáforo se ejecuten de manera ordenada y sin conflictos.
 
   <p align="center">
-  <img src="imgs/gif.gif" />
+  <img src="../imgs/gif.gif" />
 </p>
